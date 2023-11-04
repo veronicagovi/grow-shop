@@ -1,0 +1,6 @@
+.fondo{
+  background-image: url(/public/imagenes/fondo3.jpg);
+  background-size: cover; 
+  background-repeat: no-repeat;
+}
+
